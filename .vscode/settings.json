@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "interrupt.h": "c",
+        "nokia5110.h": "c"
+    }
+}
